@@ -28,12 +28,12 @@ git clone https://github.com/kosogit/jarvis-ai-assistant.git
 
 Navigate to the project folder:
 
-cd jarvis-ai-assistant
+"cd jarvis-ai-assistant"
 
 Install the required dependencies:
 
 
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 Set your OpenAI API key in the script where indicated (openai.api_key = "your_openai_api_key").
 
 Requirements:
@@ -59,9 +59,10 @@ Usage:
 Run the main Python script:
 
 there are two file select 1st one dont use chat gpi api it use responce folder to give reply you can use any file insted of reponce.txt to get responce 
-and 2.py use openai to give responce 
-python 1.py
-python 2.py 
+and 2.py use openai to give responce .
+
+"python 1.py"
+"python 2.py" 
 
 Speak your command in Hindi. Jarvis will process it, respond, and save the conversation in the responses folder.
 
