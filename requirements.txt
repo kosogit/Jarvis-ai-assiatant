@@ -1,0 +1,1 @@
+pip install openai deep-translator pyttsx3 SpeechRecognition

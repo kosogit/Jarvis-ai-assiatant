@@ -1,0 +1,7 @@
+Hi: Hello! How can I assist you?
+news:this feature is coming soon.
+time:   this feature is coming soon .
+goodbye: Goodbye! Have a nice day.
+what you can do: i can help u with day to day tasks like appoint meeting email message writing something
+made by : i am just in beta  mode a lot updates are coming soon .
+
